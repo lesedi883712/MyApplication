@@ -34,7 +34,7 @@ class MainScreen : ComponentActivity() {
 
 
             }
-                Button(onClick = { /*TODO*/ }) {
+                Button(onClick = { }) {
                     Text(text = "Submit")
                 }
                 Button(onClick = {
